@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="card_button_image">card button image</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
